@@ -1,5 +1,5 @@
 # Générateur de citation - Inspiration quotidienne
 Projet react-native avec expo 
 
-## RAMIANDRISON Mikalo Fitia
+<i> RAMIANDRISON Mikalo Fitia </i>
 ## n° 70/LA/24-25
