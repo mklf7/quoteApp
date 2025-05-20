@@ -4,7 +4,7 @@
     "slug": "quoteApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/quote.png",
+    "icon": "./assets/images/icon.png",
     "scheme": "quoteapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-quote.png",
+        "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
